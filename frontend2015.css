@@ -1,0 +1,26 @@
+body {background: black;
+color: white;
+font-size: 20px;
+font-family: calibri;
+margin-left: 72px;
+margin-right: 72px;
+margin-top: 72px;}
+
+h1 {
+  font-family: helvetica;
+  text-align: center;
+  color: #ff00ff;
+}
+
+#bondmovies {
+  font-family: arial;
+  font-size: 20px;
+  text-align: left;
+  color: grey;
+}
+
+#favcities{
+  font-family: calibri;
+  font-size: 24px;
+  color: #00ffff;
+}
